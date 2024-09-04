@@ -7,4 +7,4 @@ Using covalenthq APIs to fetch the details of various chains.
 Appropriate flags can be used in the script to fetch data.
 Supports asynch fetch to ensure faster checking from APIs.
 
-python token_scanner.py --input_path="address.txt" --mode="async"
+`python token_scanner.py --input_path="address.txt" --mode="async"`
